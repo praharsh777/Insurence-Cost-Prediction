@@ -1,4 +1,4 @@
-# Insurance OS Prediction 🧠
+# Insurance COST Prediction 🧠
 
 ## Overview
 This project uses **Multiple Linear Regression** to predict the operating system (OS) preference of insurance customers based on various input features. It's a simple, standalone Python script designed for quick experimentation and learning.
